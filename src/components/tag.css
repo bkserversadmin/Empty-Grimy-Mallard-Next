@@ -1,0 +1,14 @@
+.tag-container {
+  width: auto;
+  height: auto;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-direction: column;
+}
+.tag-root-class-name {
+  top: 0px;
+  left: 74px;
+  position: static;
+  align-self: center;
+}
